@@ -1,0 +1,5 @@
+Date:10/06/2018
+City: Toronto
+Number of Pfizer doeses administered: 12
+Number of Moderna doeses administered: 13
+Number of AstraZeneca doeses administered: 14
